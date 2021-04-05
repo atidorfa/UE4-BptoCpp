@@ -1,6 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "{73654F35-4FB3-96FF-B986-9489B421BE8F}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BlueprintsToCpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
