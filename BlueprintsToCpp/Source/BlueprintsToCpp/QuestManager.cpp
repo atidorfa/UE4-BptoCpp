@@ -31,3 +31,7 @@ void AQuestManager::Tick(float DeltaTime)
 
 }
 
+void AQuestManager::CompleteQuest_Implementation(FName QuestId, bool CompleteWholeQuest)
+{
+
+}
